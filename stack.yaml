@@ -2,3 +2,6 @@ resolver: lts-13.19
 
 packages:
   - '.'
+
+extra-deps:
+  - haskell-src-exts-1.21.0
